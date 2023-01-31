@@ -1,2 +1,2 @@
 # dev_forecasting
-Experimenting with ideas for building better/more encompassing model of forecasting at Made Tech.
+Ideas for building better encompassing model of forecasting at Made Tech.
